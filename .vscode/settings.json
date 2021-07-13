@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "45.33.70.6",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "name": "project",
+            "database": "crypto_trading",
+            "username": "mike"
+        }
+    ]
+}
