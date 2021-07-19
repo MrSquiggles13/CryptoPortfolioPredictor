@@ -25,3 +25,10 @@ We choose our crypto based off of 3 categories:
 * Predict future changes in price.
 * See how the cryptocurrencies correlate with each other.
 * Use time-series models to identify and visualize patterns.
+
+## Resources
+* [Cryptocurrency Predictor Presentation](https://docs.google.com/presentation/d/16gpk_KQjUW8WG2CddyRCjvs0E4BiFkqtTUMJYnU93kU/edit?usp=sharing) 
+* [List of API’s, exchanges, and platforms we have explored](https://linktr.ee/MrSquiggles13)
+* [Prophet](https://facebook.github.io/prophet/docs/quick_start.html#python-api)
+* [Time Series Analysis of Cryptocurrencies Using Deep Learning & Fbprophet](https://medium.com/analytics-vidhya/time-series-analysis-of-cryptocurrencies-using-deep-learning-fbprophet-48abdb2e7ebf)
+
