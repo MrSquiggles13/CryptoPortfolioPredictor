@@ -10,7 +10,7 @@
 ## Intro
 This repository was built to analyze data of various cryptocurrencies to better understand their volatility and predict their future movements.
 
-The cryptocurrencies we chose are Bitcoin(BTC), Ethereum(ETH), Cardano(ADA), Dai, US Dollar Coin(USDC), US Dollar Tether(USDT), SafeMoon, Bittorent(BTT), Nano
+The cryptocurrencies we chose are Bitcoin(BTC), Ethereum(ETH), Dai, US Dollar Coin(USDC), SafeMoon, Bittorent(BTT)
 
 We choose our crypto based off of 3 categories:
 
