@@ -139,36 +139,3 @@ plt.pyplot.title("Prediction of DAI Price")
 plt.pyplot.xlabel("Date")
 plt.pyplot.ylabel("Close Price")
 plt.pyplot.savefig("dai_forecast_full.png")
-
-
-
-#%%% CODE GRAVEYARD 
-
-
-# m.plot_components(prediction)
-# #plt.show()
-
-# #%% bitcoin ethereum ada safemoon dai usd 
-
-# ## get the historical data for the various bitcoins 
-# url = "https://www.coingecko.com/en/coins/bitcoin/historical_data/usd?end_date=2021-07-17&start_date=2020-07-17#panel"
-
-# my_btc_res = requests.get(url)
-# my_btc_res.content()
-
-# #%%
-# dt = my_btc_res.json()
-
-# my_btc_value = dt['data']['1']['quotes']['USD']['price']
-# print(my_btc_value)
-
-
-# cg.get_coin_ohlc_by_id()
-
-
-
-#dt = pd.read_csv("bitcoin_1yr_historical_data.csv")
-# convert dollar amounts to floating point numbers 
-#cl= dt['Close'].replace({'\$': '', ',': ''}, regex=True).astype(float)
-#dt['Close_f'] = cl
-#dt1 = pd.DataFrame( { 'ds' : dt['Date'] , 'y' : dt['Close_f']})
